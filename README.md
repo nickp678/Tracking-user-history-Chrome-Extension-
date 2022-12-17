@@ -1,4 +1,5 @@
 # User History Tracker (Chrome Extension)
+* You will need Nodejs as a requirement. Installation guide can be found here: https://nodejs.org/en/download/
 
 #### List of Steps
 
