@@ -1,4 +1,4 @@
-# Tracking-user-history-Chrome-Extension-
+# User History Tracker (Chrome Extension)
 
 #### List of Steps
 
