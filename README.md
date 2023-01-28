@@ -9,7 +9,7 @@ This Chrome extension will allow an attacker to listen to a user's browser's his
 * You will need Nodejs as a requirement. Installation guide can be found here: https://nodejs.org/en/download/
 
 
-#### List of Steps to run Extension
+## List of Steps to run Extension
 
 1. Run Nodejs server by executing "node app.js" inside Q3.1 folder. If the server is running correctly you should see "ILUVU3000" in the terminal window.
 
